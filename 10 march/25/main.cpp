@@ -6,13 +6,15 @@ int main() {
         k = 0;
         for(int j = 2; (j * j <= i) && (k < 71); ++j) {
             if((i % j) == 0) {
-                if((j % 2) == 0 || (i / j) == 0)
+                if((j % 2) == 0)
                     break;
-                if(j != (i / j))
+                if(j != (i / j)) {
                     k += 2;
-                else
+                } else {
                     k++;
-                del = j;
+                }
+                if(k <= 2)
+					del = i / j;
             }
         }
         if(k > 70) {
