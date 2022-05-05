@@ -1,7 +1,6 @@
-with open("27-B.txt") as f:
+with open("27-A.txt") as f:
     n = int(f.readline())
-    q = 0
     ans = 0
-    for i in range(0, n):
-        ans += n - i
+    for i in range(1, n + 1):
+        ans += i
     print(ans)

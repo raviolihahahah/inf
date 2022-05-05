@@ -1,15 +1,18 @@
-with open("27-B.txt") as f:
-    k = 0; q = 0
+with open("27-A.txt") as f:
     n = int(f.readline())
-    s = 0
-    count = [0] * 980869
+    count = 0
+    x = 980869
+    p89 = 0; p103 = 0; p107 = 0
     for i in range(n):
-        s += int(f.readline())
-        k += count[s % 980869]
-        count[s % 980869] += 1
-        if s % 980869 == 0:
-            k += 1
-    print(k)
-        
+        a = int(f.readline())
+        if a % 89 == 0:
+            p89 = i
+        if a % 103 == 0:
+            p103 = i
+        if a % 107 == 0:
+            p107 = i
+        if p89 != 0 and p103 != 0 and p107 != 0:
+            count += min(p89, p103, p107) + 1
+print(553878 - count)
                     
             
