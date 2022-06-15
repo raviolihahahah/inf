@@ -26,10 +26,12 @@ kick stuns block
 input kick to block kick
 kick doenst flinch
 kick drains your stamina
-kick looses initiative??
+kick looses initiative???
 you can feint into kick
 	COUNTER
 you can morph(feint) after morph counter
 
 	FISTS
-fists dont flinch		
+fists dont flinch
+	DODGE 
+dodge when kicked???
