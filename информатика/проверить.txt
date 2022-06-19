@@ -22,3 +22,4 @@ python f1 reference
  excel Ctrl + D   Ctrl + R
  Word части произведения открыть 10 варианты 15.06
  excel настраиваемая сортировка 26 вариант 15.06
+ фильтр  excel
