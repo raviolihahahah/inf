@@ -33,3 +33,6 @@ python f1 reference
  8 список делать программой
  
  polyakov КЕГЭ
+ 
+ 
+ 17 excel
