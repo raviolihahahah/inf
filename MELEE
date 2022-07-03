@@ -43,7 +43,7 @@ you cant morph to kick after counter
 	MORDHAU
 dont chamber second attack in enemy combo after getting hit for the first time (attack lockout after gettinh hit)
 drags to bait unsuccessful chambers (if they are conditioned to chamber accels)
-morphs to bait chambers
+morphs to bait chambers (only chambers for neutrals) 
 morphs hard to chamber read
 
 
