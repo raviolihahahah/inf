@@ -44,9 +44,11 @@ you cant morph to kick after counter
 conditioning:
 	neutral and morph
 	chamber neutral and chamber morph
-drags to bait chambers
+morphs hard to chamber read if opponent is conditioned to neutrals
 morphs to bait chambers (only chambers for neutrals) 
-morphs hard to chamber read
+drags to bait chambers
+
+
 dont chamber second attack in enemy combo after getting hit for the first time (attack lockout after getting hit)
 chamber when opponent is low stam
 combo when disarming
