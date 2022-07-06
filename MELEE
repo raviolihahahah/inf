@@ -41,11 +41,14 @@ you cant morph to kick after counter
 
 
 	MORDHAU
-dont chamber second attack in enemy combo after getting hit for the first time (attack lockout after gettinh hit)
-drags to bait unsuccessful chambers (if they are conditioned to chamber accels)
+conditioning:
+	neutral and morph
+	chamber neutral and chamber morph
+drags to bait chambers
 morphs to bait chambers (only chambers for neutrals) 
 morphs hard to chamber read
+dont chamber second attack in enemy combo after getting hit for the first time (attack lockout after getting hit)
 chamber when opponent is low stam
 combo when disarming
 punish combo faster
-
+make smaller drags 
