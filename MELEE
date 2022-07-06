@@ -45,5 +45,5 @@ dont chamber second attack in enemy combo after getting hit for the first time (
 drags to bait unsuccessful chambers (if they are conditioned to chamber accels)
 morphs to bait chambers (only chambers for neutrals) 
 morphs hard to chamber read
-
+chamber when opponent is low stam
 
