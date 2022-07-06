@@ -47,6 +47,7 @@ conditioning:
 morphs hard to chamber read if opponent is conditioned to neutrals
 morphs to bait chambers (only chambers for neutrals) 
 drags to bait chambers
+drags lose conditioning . . .. .
 
 
 dont chamber second attack in enemy combo after getting hit for the first time (attack lockout after getting hit)
