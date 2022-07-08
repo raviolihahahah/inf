@@ -40,9 +40,7 @@ you cant morph to kick after counter
 
 
 	MORDHAU
-conditioning:
-	neutral and morph
-	chamber neutral and chamber morph
+conditioning
 morphs hard to chamber read if opponent is chambering neutrals
 morphs to bait chambers (only chambers for neutrals) 
 drags to bait chambers
