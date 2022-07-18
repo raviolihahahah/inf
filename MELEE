@@ -48,7 +48,7 @@ drags lose conditioning . . .. .
 
 change to secondary when low stam
 dont chamber second attack in enemy combo after getting hit for the first time (attack lockout after getting hit)
-chamber when opponent is low stam
+chamber when opponent is low stam if stam permits 
 combo when disarming
 punish combo faster
 make smaller drags 
